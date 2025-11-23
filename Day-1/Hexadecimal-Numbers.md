@@ -1,4 +1,4 @@
-# Day 1 - Hexadecimal Numbers
+# Day 1 (Day 1/365) - Hexadecimal Numbers
 
 ## 📚 Topic Overview
 **Course:** DevOps Engineer with AI: CI/CD Pipelines & Docker Skills  
@@ -100,4 +100,4 @@ BE16 = 1011 1110
 
 ---
 
-**Progress:** Day 1/100 of DevOps Learning Journey 🚀
+**Progress:** Day 1/365 of DevOps Learning Journey 🚀
