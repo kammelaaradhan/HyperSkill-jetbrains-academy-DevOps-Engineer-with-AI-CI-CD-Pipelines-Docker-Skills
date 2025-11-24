@@ -146,6 +146,7 @@ OOP is not just a programming concept—it's a way of thinking about problems. A
 
 ---
 
-**Progress:** Day 3/100 ✅  
-**Challenge:** 100 Days of DevOps with AI  
+**Progress:** Day 3/365 ✅
+**Challenge:** 365 Days of DevOps Mastery - 195 Topics with Practice Exercises
+**Repository:** [DevOps Learning Journey](https://github.com/kammelaaradhan/HyperSkill-jetbrains-academy-DevOps-Engineer-with-AI-CI-CD-Pipelines-Docker-Skills)
 **Repository:** [DevOps Learning Journey](https://github.com/kammelaaradhan/HyperSkill-jetbrains-academy-DevOps-Engineer-with-AI-CI-CD-Pipelines-Docker-Skills)
